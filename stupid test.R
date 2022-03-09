@@ -1,6 +1,6 @@
 x= c(1:10)
 x
 
-y= "stupid"
+y= "Juandre"
 
 g="another message"
